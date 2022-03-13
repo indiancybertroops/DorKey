@@ -41,7 +41,7 @@ open issue if you face any problem related tool {we are not responding on your s
 
 >To Create Sqli Dorks
 
-# Main Phanto-M Image
+# Main DorKey Image
 ![](dorkey.png)
 # Installation :
 > clone via git clone
